@@ -87,7 +87,7 @@
                   </ul>
                 </li>
             <?php } ?>
-          <li><a href="index.php#features">Features</a></li>
+         <!-- <li><a href="index.php#features">Features</a></li>-->
           <li><a href="contact.php" class="active">Contact</a></li>
 
         </ul>
@@ -111,4 +111,5 @@
     </section><!-- End Breadcrumbs Section -->
 
     <section id="contact" class="contact">
+
       <div class="container">
